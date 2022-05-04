@@ -9,6 +9,11 @@ A passionate System Administrator, Developer and Security Enthusiast from Camero
 - 📫 How to reach me: waffoluc@gmail.com
 
 
+<script src="https://tryhackme.com/badge/1086299"></script>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/MaitreWaff.png" alt="TryHackMe">
+
+
 <!--
 **MaitreWaff/MaitreWaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
