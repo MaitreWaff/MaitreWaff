@@ -8,9 +8,9 @@ A passionate System Administrator, Developer and Security Enthusiast from Camero
 - 💬 Ask me about Python, Django, C, Assembly
 - 📫 How to reach me: waffoluc@gmail.com
 
-
+<!--
 <script src="https://tryhackme.com/badge/1086299"></script>
-
+-->
 <img src="https://tryhackme-badges.s3.amazonaws.com/MaitreWaff.png" alt="TryHackMe">
 
 
