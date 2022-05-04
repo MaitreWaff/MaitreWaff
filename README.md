@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Hi 👋, I'm MaitreWaff
+
+A passionate System Administrator, Developer and Security Enthusiast from Cameroon
+
+- 🌱 I’m currently learning Pentesting, Security, Cloud etc...
+- 💬 Ask me about Python, Django, C, Assembly
+- 📫 How to reach me: waffoluc@gmail.com
+
+
 <!--
 **MaitreWaff/MaitreWaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
