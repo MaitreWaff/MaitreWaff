@@ -11,7 +11,7 @@ A passionate System Administrator, Developer and Security Enthusiast from Camero
 <!--
 <script src="https://tryhackme.com/badge/1086299"></script>
 -->
-<script src="https://tryhackme.com/badge/1086299"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/MaitreWaff.png" alt="TryHackMe">
 
 
 <!--
