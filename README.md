@@ -16,6 +16,17 @@ A passionate Platform & System Architect, DevSecOps and Security Enthusiast from
 <img src="https://tryhackme-badges.s3.amazonaws.com/MaitreWaff.png" alt="TryHackMe">
 
 
+##### Online Presence
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MaitreWaff)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/maitrewaff)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Waffoluc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7314513/maitrewaff)  
+---
+<div>
+  <a href="https://github.com/MaitreWaff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaitreWaff&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaitreWaff&layout=compact&langs_count=6"/>
+</div>
+
+![Profile views](https://gpvc.arturio.dev/MaitreWaff)  
+
 <!--
 **MaitreWaff/MaitreWaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
