@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src="https://github.com/MaitreWaff/MaitreWaff/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
+
 Hi 👋, I'm MaitreWaff
 
 A passionate Platform & System Architect, DevSecOps and Security Enthusiast from Cameroon
