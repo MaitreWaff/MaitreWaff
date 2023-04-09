@@ -2,10 +2,10 @@
 
 Hi 👋, I'm MaitreWaff
 
-A passionate System Administrator, Developer and Security Enthusiast from Cameroon
+A passionate Platform & System Architect, DevSecOps and Security Enthusiast from Cameroon
 
-- 🌱 I’m currently learning Pentesting, Security, Cloud etc...
-- 💬 Ask me about Python, Django, C, Assembly
+- 🌱 I’m currently learning Pentesting, Security, DevSecOps, AWS Cloud etc...
+- 💬 Ask me about AWS, Linux, Python, Django, C, Assembly
 - 📫 How to reach me: waffoluc@gmail.com
 
 <!--
