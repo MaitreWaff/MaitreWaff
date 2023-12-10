@@ -1,6 +1,6 @@
 ## <h1 align="center">Hi 👋, I'm MaitreWaff</h1>
 
-<img align="right" src="https://github.com/MaitreWaff/MaitreWaff/blob/main/developer.gif" alt="Hola Coders" width="300" height="200"/> 
+<img align="right" src="https://github.com/MaitreWaff/MaitreWaff/blob/main/developer.gif" alt="Hola Coders" width="300" height="250"/> 
 
 A passionate Platform & System Architect, DevSecOps and Security Enthusiast from Cameroon
 
