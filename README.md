@@ -1,12 +1,14 @@
-## Hi 👋, I'm MaitreWaff
+## <h1 align="center">Hi 👋, I'm MaitreWaff</h1>
 
-<img align="right" src="https://github.com/MaitreWaff/MaitreWaff/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
+<img align="right" src="https://github.com/MaitreWaff/MaitreWaff/blob/main/developer.gif" alt="Hola Coders" width="300" height="150"/> 
 
 A passionate Platform & System Architect, DevSecOps and Security Enthusiast from Cameroon
 
 - 🌱 I’m currently learning Pentesting, Security, DevSecOps, AWS Cloud etc...
 - 💬 Ask me about AWS, Linux, Python, Django, Docker, C, Assembly, LaTeX
-- 📫 How to reach me: waffoluc@gmail.com
+- 🤝  Let's Connect With me on [LinkedIn](https://www.linkedin.com/in/luc-m-waffo-m-33123126/)
+- 👨‍💻 All of my public projects are available at [Github](https://github.com/MaitreWaff)
+- 📫 How to reach me: **waffoluc@gmail.com**
 - ⚡ Fun fact: I'm a very fun person to be with... 😂
 
 <!--
